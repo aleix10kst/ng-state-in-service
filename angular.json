@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "state-service"
+  "defaultProject": "state-service",
+  "cli": {
+    "analytics": "180a75fe-5a89-4033-b07f-5c5e969f0317"
+  }
 }
